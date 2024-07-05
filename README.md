@@ -1,7 +1,7 @@
 ![Logo](banner.png)
 
 
-#  Smiley Photo App
+#  Free Menu App
 
 ## 💭 Synopsis
 
