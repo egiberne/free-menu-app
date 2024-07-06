@@ -34,5 +34,5 @@ To prepare to create some actual content, add a `body` element below the head el
 ## Step 5 | Add a Main element
 It's time to add some menu content. Add a `main` element within the existing `body` element. It will eventually contain pricing information about coffee and desserts offered by the cafe.
 
-## Step 6
+## Step 6 | Add an Heading element
 The *name* of the cafe is `CAMPER CAFE`. Add an `h1` element within your main element. Give it the *name* of the cafe in capitalized letters to make it stand out.
