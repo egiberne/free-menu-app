@@ -36,3 +36,30 @@ It's time to add some menu content. Add a `main` element within the existing `bo
 
 ## Step 6 | Add an Heading element
 The *name* of the cafe is `CAMPER CAFE`. Add an `h1` element within your main element. Give it the *name* of the cafe in capitalized letters to make it stand out.
+
+## Step 7 | Add a Paragraph element
+To let visitors know the cafe was founded in **2021**, add a `p` element below the `h1` element with the text `Est. 2021`.
+
+## Step 8 | Add two Sections element
+There will be two *sections* on the menu, one for `coffees` and one for `desserts`. Add a section element within the `main` element so you have a place to put all the coffees available.
+
+## Step 9 | Add a Subheading element
+Create an `h2` element in the section element and give it the text Coffee.
+
+## Step 10 | Add a Style element
+Up until now, you have been limited regarding the presentation and appearance of the content you create. To start taking control, add a `style` element within the `head` element.
+
+## Step 11 
+You can add style to an element by specifying it in the style element and setting a property for it like this:
+
+<details>
+<summary>Example Code</summary>
+
+```css
+element {
+ property: value;
+}
+```
+</details>
+
+Center the content of the h1 element by setting its text-align property to the value center.
