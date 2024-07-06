@@ -68,6 +68,7 @@ Quick overview of the project status.
 
 - See the list of Emoji on [Emojipedia](http://www.emojipedia.org "Emoji reference site.") 
 
+- Learn to build a GitHub Page on [GitHub Pages](https://tomcam.github.io/least-github-pages/ "The Least You Need to Know About GitHub Pages")
 
 ## 🛡️ Security
 [Security](SECURITY)
