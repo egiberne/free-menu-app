@@ -74,6 +74,6 @@ Quick overview of the project status.
 
 ## ⚖️ License
 
-[Unlicense](LICENSE)
+[License](LICENSE)
 
 <a href="#">Top</a>
