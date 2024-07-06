@@ -49,7 +49,7 @@ Create an `h2` element in the section element and give it the text Coffee.
 ## Step 10 | Add a Style element
 Up until now, you have been limited regarding the presentation and appearance of the content you create. To start taking control, add a `style` element within the `head` element.
 
-## Step 11 
+## Step 11 | Add a Type Selector
 You can add style to an element by specifying it in the style element and setting a property for it like this:
 
 <details>
@@ -63,3 +63,23 @@ element {
 </details>
 
 Center the content of the h1 element by setting its text-align property to the value center.
+
+## Step 12 | Add more Type Selectors
+In the previous step, you used a *type selector* to style the `h1` element. Center the content of the `h2` and the `p` elements by adding a new `type selector` for each one to the existing style element.
+
+## Step 13 | Add a Group of Selectors
+You now have three type selectors with the exact same styling. You can add the same group of styles to many elements by creating a list of selectors. Each selector is separated with commas like this:
+
+<details>
+<summary>Example Code</summary>
+
+```css
+selector1, selector2 {
+  property: value;
+}
+```
+</details>
+
+Delete the **3** existing type selectors and replace them with **1** selector list that centers the text for the `h1`, `h2`, and `p` elements.
+
+
