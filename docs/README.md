@@ -34,15 +34,13 @@ CSS tells the browser how to display your webpage. You can use CSS to set the co
 
 1. Clone the repository
 2. Open the project in Visual Studio Code
-3. Open the file, [STEP_BY_STEP](STEP_BY_STEP.md)
-4. Follow the [instructions](STEP_BY_STEP.md) in the file
+3. Follow the [instructions](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu "From the Front-End Developer Roadmap") to build the project.
 
-## 🧪 Sample
+## 🧪 Samples
 
-See an example of the project.
+- See an example of the project, on the page [MEALS & METS](https://mealsnmets.netlify.app)
 
-[MEALS & METS](https://mealsnmets.netlify.app)
-
+- See my [step-by-step](..\src\STEP_BY_STEP.md) to build the project.
 
 ## Progresses
 
