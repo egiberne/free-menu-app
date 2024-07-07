@@ -41,7 +41,7 @@ CSS tells the browser how to display your webpage. You can use CSS to set the co
 
 See an example of the project.
 
-[MEALS & METS](https://meals-mets.netlify.app)
+[MEALS & METS](https://mealsnmets.netlify.app)
 
 
 ## Progresses
