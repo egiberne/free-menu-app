@@ -50,7 +50,7 @@ Create an `h2` element in the section element and give it the text Coffee.
 Up until now, you have been limited regarding the presentation and appearance of the content you create. To start taking control, add a `style` element within the `head` element.
 
 
-<a href="#">Top</a>
+<p align="right">🔺<a href="#">Top</a></p>
 
 
 ## Step 11 | Create a Type Selector
@@ -155,4 +155,4 @@ Inside the opening `div` tag, add the `id` attribute with a value of menu.
 ```
 </details>
 
-<a href="#">Top</a>
+<p align="right">🔺<a href="#">Top</a></p>
