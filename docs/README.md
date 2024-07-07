@@ -40,7 +40,7 @@ CSS tells the browser how to display your webpage. You can use CSS to set the co
 
 - See an example of the project, on the page [MEALS & METS](https://mealsnmets.netlify.app)
 
-- See my [step-by-step](..\src\STEP_BY_STEP.md) to build the project.
+- See my [step-by-step](https://github.com/egiberne/free-menu-app/blob/4912cbf5d5b6a0ba8992e82ce7fe9c4cd5919888/src/STEP_BY_STEP.md) to build the project.
 
 ## Progresses
 
