@@ -83,3 +83,15 @@ selector1, selector2 {
 Delete the **3** existing type selectors and replace them with **1** selector list that centers the text for the `h1`, `h2`, and `p` elements.
 
 
+## Step 14 | Add a file for the Styles
+You have styled **3** elements by writing CSS inside the style tags. This works, but since there will be many more styles, it's best to put all the styles in a separate file and link to it.
+
+We have created a separate `styles.css` file for you and switched the editor view to that file. You can change between files with the tabs at the top of the editor.
+
+Start by rewriting the styles you have created into the `styles.css` file. Make sure to exclude the opening and closing `style` tags.
+
+## Step 15 | Remove the Style element
+Now that you have the CSS in the `styles.css` file, go ahead and remove the `style` element and all its content. Once it is removed, the text that was centered will shift back to the left.
+
+## Step 16 | Add a Link element the Styles
+Now you need to link the `styles.css` file, so the styles will be applied again. Inside the `head` element, add a `link` element. Give it a `rel` attribute with the value of `stylesheet` and a `href` attribute with the value of `styles.css`.
