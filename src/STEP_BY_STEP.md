@@ -7,7 +7,7 @@ In this project, you will learn the basics of CSS (Cascading Style Sheets) by bu
 As you learned in the last few steps of the Cat Photo App, there is a basic structure needed to start building your web page. Every HTML document should have a DOCTYPE declaration and `html` element. The DOCTYPE tells the browser which version of HTML the document is in. And the html element represents the root element which contains all other elements.
 
 <details>
-<summary>Example Code</summary>
+<summary>Code Snippet</summary>
 
 ```html
 <!DOCTYPE html>
@@ -57,7 +57,7 @@ Up until now, you have been limited regarding the presentation and appearance of
 You can add style to an element by specifying it in the style element and setting a property for it like this:
 
 <details>
-<summary>Example Code</summary>
+<summary>Code Snippet</summary>
 
 ```css
 element {
@@ -75,7 +75,7 @@ In the previous step, you used a *type selector* to style the `h1` element. Cent
 You now have three type selectors with the exact same styling. You can add the same group of styles to many elements by creating a list of selectors. Each selector is separated with commas like this:
 
 <details>
-<summary>Example Code</summary>
+<summary>Code Snippet</summary>
 
 ```css
 selector1, selector2 {
@@ -106,7 +106,7 @@ For the styling of the page to look similar on mobile as it does on a desktop or
 Add the following within the head element:
 
 <details>
-<summary>Example Code</summary>
+<summary>Code Snippet</summary>
 
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -118,7 +118,7 @@ Add the following within the head element:
 The text is centered again so the link to the CSS file is working. Add another style to the file that changes the `background-color` property to brown for the `body` element.
 
 <details>
-<summary>Example Code</summary>
+<summary>Code Snippet</summary>
 
 ```css
 body {
@@ -131,7 +131,7 @@ body {
 That brown background makes it hard to read the text. Change the `body` element's background color to be `burlywood` so it has some color but you are still be able to read the text.
 
 <details>
-<summary>Example Code</summary>
+<summary>Code Snippet</summary>
 
 ```css
 body {
@@ -146,7 +146,7 @@ The `div` element is used mainly for design layout purposes unlike the other con
 Inside the opening `div` tag, add the `id` attribute with a value of menu.
 
 <details>
-<summary>Example Code</summary>
+<summary>Code Snippet</summary>
 
 ```html
 <div id=menu>
@@ -162,11 +162,38 @@ The div element must cover a piece of the `viewport`.
 Limit the `width` of the div element to **350** *pixels* by creating style for the `#menu` selector.
 
 <details>
-<summary>Example Code</summary>
+<summary>Code Snippet</summary>
 
 ```css
 #menu {
   width: 350px;
+}
+```
+</details>
+
+## Step 22 | Create a comment
+To get back with a white backgroung, comment the code with the `background-color` property and value.
+
+<details>
+<summary>Code Snippet</summary>
+
+```css
+/*background-color:limegreen;*/
+```
+</details>
+
+
+## Step 23 | Update the Background Color
+Now use the existing `#menu` selector to set the *background color* of the `div` element to be `orangered`.
+
+<details>
+<summary>Code Snippet</summary>
+
+
+```css
+#menu {
+  width:350px;
+  background-color:orangered;
 }
 ```
 </details>
