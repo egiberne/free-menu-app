@@ -156,3 +156,17 @@ Inside the opening `div` tag, add the `id` attribute with a value of menu.
 </details>
 
 <p align="right">🔺<a href="#">Top</a></p>
+
+## Step 21 | Create a selector id for the div element
+The div element must cover a piece of the `viewport`. 
+Limit the `width` of the div element to **350** *pixels* by creating style for the `#menu` selector.
+
+<details>
+<summary>Example Code</summary>
+
+```css
+#menu {
+  width: 350px;
+}
+```
+</details>
