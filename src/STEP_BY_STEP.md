@@ -140,6 +140,10 @@ body {
 ```
 </details>
 
+
+<p align="right">🔺<a href="#">Top</a></p>
+
+
 ## Step 20 | Create a div element
 The `div` element is used mainly for design layout purposes unlike the other content elements you have used so far. Add a `div` element inside the `body` element and then move all the other elements inside the new `div`.
 
@@ -197,3 +201,112 @@ Now use the existing `#menu` selector to set the *background color* of the `div`
 }
 ```
 </details>
+
+## Step 24 | Update the width property a selector class for the div
+
+Update the `width` property value to make it **50%** of its `body` element `width`.
+
+<details>
+<summary>Code Snippet</summary>
+
+```css
+#menu {
+  width:50%;
+  background-color:orangered;
+}
+```
+</details>
+
+## Step 25 | Update the selector to center the div
+Set `margin-left` and `margin-right` properties to `auto` for the `#menu` element within the `body` element.
+
+<details>
+<summary>Code Snippet</summary>
+
+```css
+#menu {
+  width:50%;
+  background-color:orangered;
+  margin-left:auto;
+  margin-right:auto;
+}
+```
+</details>
+
+
+## Step 26 | Update the id to the class selector
+Use a class selector to style the `menu` element. Change the `#menu` selector to `.menu` in the `styles.css` file.
+
+<details>
+<summary>Code Snippet</summary>
+
+```css
+.menu {
+  width:50%;
+  background-color:orangered;
+  margin-left:auto;
+  margin-right:auto;
+}
+  ```
+</details>
+
+## Step 27 | Update the id attribut to class attribut
+Change the `id` attribute of the `div` element to a `class` attribute with a value of `menu`.
+
+ <details>
+<summary>Code Snippet</summary>
+  
+  ```html
+   <div class="menu">
+  <!-- all other elements go here -->
+</div>
+  ```
+</details>
+
+## Step 28 | Update the background to an image
+Use an image of pies for the background of the page.
+
+<details>
+<summary>Code Snippet</summary>
+
+```css
+body {
+    /*background-color:limegreen;*/
+    background-image:url("pies.png");
+}
+```
+</details>
+
+## Step 29 | Create a article element
+Add an `article` element inside the `div` element
+
+<details>
+<summary>Code Snippet</summary>
+
+```html
+<div class="menu">
+  <article>
+    <!-- all other elements go here -->
+  </article>
+</div>
+```
+</details>
+
+## Step 30 | Create paragraph elements
+Add two `p` elements inside the `article` element. The first `p` element should contain the text `Veggie` and the second `p` element should contain the text `10.0`.
+
+<details>
+<summary>Code Snippet</summary>
+
+```html
+<div class="menu">
+  <article>
+    <p>Veggie</p>
+    <p>10.0</p>
+  </article>
+</div>
+```
+</details>
+
+
+<p align="right">🔺<a href="#">Top</a></p>
