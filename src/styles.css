@@ -1,6 +1,7 @@
 /*steps 18-19, 22*/
 body {
     /*background-color:limegreen;*/
+    background-image:url("pies.png");
 }
 
 /*steps 14*/
@@ -9,7 +10,9 @@ h1, h2, h3, p {
 }
 
 /*steps 21, 23*/
-#menu {
-  width:350px;
+.menu {
+  width:50%;
   background-color:orangered;
+  margin-left:auto;
+  margin-right:auto;
 }
