@@ -309,4 +309,137 @@ Add two `p` elements inside the `article` element. The first `p` element should 
 </details>
 
 
+## Step 31 | Create other article elements
+
+<details>
+<summary> Code Snippet </summary>
+
+```html
+<div class="menu">
+  <article>
+    <p>Veggie</p>
+    <p>10.0</p>
+  </article>
+  <article>
+    <p>Ham</p>
+    <p>10.0</p>
+  </article>
+  <article>
+    <p>Pepperoni</p>
+    <p>10.0</p>
+  </article>
+  <article>
+    <p>Supreme</p>
+    <p>10.0</p>
+  </article>
+</div>
+```
+</details>
+
+## Step 32 | Create an attribute class for the p element
+
+Add the `class` attribute named `taste` to the `p` elements.  This will allow you to style all the `p` elements with the `taste` class at once.
+<details>
+<summary> Code Snippet </summary>
+
+```html
+  <article>
+    <p class="taste">Veggie</p>
+  </article>
+```
+</details>
+
+
+
 <p align="right">🔺<a href="#">Top</a></p>
+
+## Step 33 | Create a selector class for the p element
+
+Align the text to the left side.
+
+<details>
+<summary> Code Snippet </summary>
+
+```css
+.taste {
+  text-align:left;
+}
+```
+</details>
+
+## Step 34 | Create another attribut the p element
+
+Add the `class` attribute named `cost` to the `p` elements related to the price. This will allow you to style all the `p` elements with the `cost` class at once.
+
+<detail>
+<summary> Code Snippet </summary>
+
+```html
+  <article>
+    <p class="taste"> pizza</p>
+    <p class="cost">10.0</p>
+  </article>
+```
+</details>
+
+## step 35 | Create a selector class for the p element
+
+Align the text related to the price to the right side.
+
+<details>
+<summary> Code Snippet </summary>
+
+```css
+.cost {
+  text-align:right;
+}
+```
+</details>
+
+## Step 36 | Create a class for the article element
+
+Add the `class` attribute named `menu-item` to the `article` elements. This will allow you to style all the `article` elements with the `menu-item` class at once.
+
+<details>
+<summary> Code Snippet </summary>
+
+```html
+  <article class="menu-item">
+    <p class="taste"> pizza</p>
+    <p class="cost">10.0</p>
+  </article>
+```
+</details>
+
+
+## Step 37 | Update the display attribut of the p element
+
+The `article` elements are displayed as block elements by default. Change the `display` property of the `menu-item` class selector to `inline-block` to display the `article` elements in a row.
+
+<details>
+<summary> Code Snippet </summary>
+
+```css
+.menu-item {
+  display:inline-block;
+}
+```
+</details
+
+
+## Step 38 | Update the width property of the class selector
+
+Set a width of **50%** for the `cost` and `taste` class selector.
+<detai>
+<summary> Code Snippet </summary>
+
+```css
+.tasted {
+  width:50%;
+}
+```
+.tasted {
+  width:50%;
+}
+```
+</details>

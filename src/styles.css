@@ -11,8 +11,28 @@ h1, h2, h3, p {
 
 /*steps 21, 23*/
 .menu {
-  width:50%;
+  width:80%;
   background-color:orangered;
   margin-left:auto;
   margin-right:auto;
+}
+
+/*steps 33*/
+.taste {
+text-align:left;
+
+/*steps 38*/
+width:49%;
+}
+
+/*steps 34*/
+.cost {
+  text-align:right;
+  
+/*steps 38*/
+width:50%;
+}
+
+.item p {
+  display:inline-block
 }
