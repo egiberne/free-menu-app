@@ -398,13 +398,13 @@ Align the text related to the price to the right side.
 
 ## Step 36 | Create a class for the article element
 
-Add the `class` attribute named `menu-item` to the `article` elements. This will allow you to style all the `article` elements with the `menu-item` class at once.
+Add the `class` attribute named `product` to the `article` elements. This will allow you to style all the `article` elements with the `product` class at once.
 
 <details>
 <summary> Code Snippet </summary>
 
 ```html
-  <article class="menu-item">
+  <article class="product">
     <p class="taste"> pizza</p>
     <p class="cost">10.0</p>
   </article>

@@ -11,7 +11,7 @@ h1, h2, h3, p {
 
 /*steps 21, 23*/
 .menu {
-  width:80%;
+  width:70%;
   background-color:orangered;
   margin-left:auto;
   margin-right:auto;
@@ -30,9 +30,9 @@ width:49%;
   text-align:right;
   
 /*steps 38*/
-width:50%;
+width:49%;
 }
 
-.item p {
+.product p {
   display:inline-block
 }
