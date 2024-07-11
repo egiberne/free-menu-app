@@ -424,22 +424,116 @@ The `article` elements are displayed as block elements by default. Change the `d
   display:inline-block;
 }
 ```
-</details
+</details>
 
 
-## Step 38 | Update the width property of the class selector
+## Step 38 | Update the width property of the class selectors
 
 Set a width of **50%** for the `cost` and `taste` class selector.
-<detai>
+<details>
 <summary> Code Snippet </summary>
 
 ```css
 .tasted {
   width:50%;
 }
-```
-.tasted {
+
+.cost {
   width:50%;
 }
 ```
 </details>
+
+## Step 39 | Update the width property of the class selectors
+
+Set a width of **49%** for the `taste` and `cost` class selector.
+
+<details>
+<summary> Code Snippet </summary>
+
+```css
+.taste {
+  width:49%;
+}
+
+.cost {
+  width:49%;
+}
+``` 
+</details>
+
+## Step 40 | Remove the newline betweeen the paragraph elements
+
+Set the `p` elements to the same line in order to have no space between them.
+
+<details>
+<summary> Code Snippet </summary>
+
+```html
+  <article class="product">
+    <p class="taste"> pizza</p><p class="cost">10.0</p>
+  </article>
+```
+</details>
+
+## Step 41 | Update the width property of the class selectors
+
+Set a width of **50%** for the `taste` and `cost` class selector.
+
+<details>
+<summary> Code Snippet </summary>
+
+```css
+.taste {
+  width:50%;
+}
+
+.cost {
+  width:50%;
+}
+```
+</details>
+
+## Step 42 | Update the class attribut of all article elements
+
+Add the `class` attribute named `product` to the `article` elements. This will allow you to style all the `article` elements with the `product` class at once.
+
+<details>
+<summary> Code Snippet </summary>
+
+```html
+  <article class="product">
+    <p class="taste"> pizza</p><p class="cost">10.0</p>
+  </article>
+```
+</details>
+
+## Step 43 | Remove the space between all paragraph elements
+
+Set the `p` elements to the same line in order to have no space between them.
+
+<details>
+<summary> Code Snippet </summary>
+
+```html
+  <article class="product">
+    <p class="taste"> pizza</p><p class="cost">10.0</p>
+  </article>
+```
+</details>
+
+## Step 44 | Update the property of all paragraph class selectors
+
+Set the class attribut `taste` and  `cost` for the p elements accordingly.
+
+<details>
+<summary> Code Snippet </summary>
+  
+  ```html
+  <article class="product">
+    <p class="taste"> pizza</p><p class="cost">10.0</p>
+  </article>
+  ```
+</details>
+
+

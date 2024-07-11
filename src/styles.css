@@ -21,16 +21,16 @@ h1, h2, h3, p {
 .taste {
 text-align:left;
 
-/*steps 38*/
-width:49%;
+/*steps 38, 50*/
+width:50%;
 }
 
 /*steps 34*/
 .cost {
   text-align:right;
   
-/*steps 38*/
-width:49%;
+/*steps 38, 50*/
+width:50%;
 }
 
 .product p {
