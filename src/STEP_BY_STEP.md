@@ -309,6 +309,12 @@ Add two `p` elements inside the `article` element. The first `p` element should 
 </details>
 
 
+
+<p align="right">🔺<a href="#">Top</a></p>
+
+
+
+
 ## Step 31 | Create other article elements
 
 <details>
@@ -476,6 +482,9 @@ Set the `p` elements to the same line in order to have no space between them.
 ```
 </details>
 
+
+<p align="right">🔺<a href="#">Top</a></p>
+
 ## Step 41 | Update the width property of the class selectors
 
 Set a width of **50%** for the `taste` and `cost` class selector.
@@ -556,3 +565,93 @@ Set a width of **80%** for the `taste` and **20%** `cost` class selector.
 ```
 </details>
 
+## Step 46 | Create a new section element
+
+Add a `section` element inside the `div` element.
+
+<details> 
+<summary> Code Snippet </summary>
+
+```html
+<div class="menu">
+  <section>
+    <!-- all other elements go here -->
+  </section>
+</div>
+```
+</details>
+
+## Step 47 | Create a h2 element
+
+Add an `h2` element inside the `section` element with the text `Pizza`.
+
+Repeat this step for a 3rd section element, but with the text `Desserts`.
+
+<details>
+<summary> Code Snippet </summary>
+
+```html
+<div class="menu">
+  <section>
+    <h2>Pizza</h2>
+  </section>
+</div>
+```
+</details>
+
+## Step 48 | Create a new article element
+
+Add an `article` element inside the new `section` element.
+
+Repeat this step for the 3rd section element.
+
+
+<details>
+<summary> Code Snippet </summary>
+
+```html
+<div class="menu">
+  <section>
+    <h2>Pizza</h2>
+    <article>
+      <!-- all other elements go here -->
+    </article>
+  </section>
+</div>
+```
+</details>
+
+## Step 49 | Create a p element
+
+Add a `p` element inside the new `article` element with the text `4 Cheeses`.
+Add another `p` element with the text `10.0` at the same line as the first `p` element.
+
+Repeat this step for the 3rd section element.
+
+<details>
+<summary> Code Snippet </summary>
+
+```html
+<div class="menu">
+  <section>
+    <h2>Pizza</h2>
+    <article>
+      <p>4 Cheeses</p> <p>10.0</p>
+    </article>
+  </section>  
+</div>
+```
+</details>
+
+
+## Step 50 | Update the class attribut of the p elements
+
+Add the `class` attribute named `pizza`, `sweet` to the first `p` element and the `class` attribute named `cost` to the second `p` element.
+
+
+
+
+
+
+
+<p align="right">🔺<a href="#">Top</a></p>
