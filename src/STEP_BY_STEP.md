@@ -537,3 +537,22 @@ Set the class attribut `taste` and  `cost` for the p elements accordingly.
 </details>
 
 
+## Step 45 | Update the width property of the class selectors, taste and cost
+
+Set a width of **80%** for the `taste` and **20%** `cost` class selector.
+
+
+<details>
+<summary> Code Snippet </summary>
+
+```css
+.taste {
+  width:80%;
+}
+
+.cost {
+  width:20%;
+}
+```
+</details>
+
