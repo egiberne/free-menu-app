@@ -344,13 +344,13 @@ Add two `p` elements inside the `article` element. The first `p` element should 
 
 ## Step 32 | Create an attribute class for the p element
 
-Add the `class` attribute named `taste` to the `p` elements.  This will allow you to style all the `p` elements with the `taste` class at once.
+Add the `class` attribute named `first` to the `p` elements.  This will allow you to style all the `p` elements with the `first` class at once.
 <details>
 <summary> Code Snippet </summary>
 
 ```html
   <article>
-    <p class="taste">Veggie</p>
+    <p class="first">Veggie</p>
   </article>
 ```
 </details>
@@ -367,7 +367,7 @@ Align the text to the left side.
 <summary> Code Snippet </summary>
 
 ```css
-.taste {
+.first {
   text-align:left;
 }
 ```
@@ -382,7 +382,7 @@ Add the `class` attribute named `cost` to the `p` elements related to the price.
 
 ```html
   <article>
-    <p class="taste"> pizza</p>
+    <p class="first"> second</p>
     <p class="cost">10.0</p>
   </article>
 ```
@@ -411,7 +411,7 @@ Add the `class` attribute named `product` to the `article` elements. This will a
 
 ```html
   <article class="product">
-    <p class="taste"> pizza</p>
+    <p class="first"> second</p>
     <p class="cost">10.0</p>
   </article>
 ```
@@ -435,12 +435,12 @@ The `article` elements are displayed as block elements by default. Change the `d
 
 ## Step 38 | Update the width property of the class selectors
 
-Set a width of **50%** for the `cost` and `taste` class selector.
+Set a width of **50%** for the `cost` and `first` class selector.
 <details>
 <summary> Code Snippet </summary>
 
 ```css
-.tasted {
+.firstd {
   width:50%;
 }
 
@@ -452,13 +452,13 @@ Set a width of **50%** for the `cost` and `taste` class selector.
 
 ## Step 39 | Update the width property of the class selectors
 
-Set a width of **49%** for the `taste` and `cost` class selector.
+Set a width of **49%** for the `first` and `cost` class selector.
 
 <details>
 <summary> Code Snippet </summary>
 
 ```css
-.taste {
+.first {
   width:49%;
 }
 
@@ -477,7 +477,7 @@ Set the `p` elements to the same line in order to have no space between them.
 
 ```html
   <article class="product">
-    <p class="taste"> pizza</p><p class="cost">10.0</p>
+    <p class="first"> second</p><p class="cost">10.0</p>
   </article>
 ```
 </details>
@@ -487,13 +487,13 @@ Set the `p` elements to the same line in order to have no space between them.
 
 ## Step 41 | Update the width property of the class selectors
 
-Set a width of **50%** for the `taste` and `cost` class selector.
+Set a width of **50%** for the `first` and `cost` class selector.
 
 <details>
 <summary> Code Snippet </summary>
 
 ```css
-.taste {
+.first {
   width:50%;
 }
 
@@ -512,7 +512,7 @@ Add the `class` attribute named `product` to the `article` elements. This will a
 
 ```html
   <article class="product">
-    <p class="taste"> pizza</p><p class="cost">10.0</p>
+    <p class="first"> second</p><p class="cost">10.0</p>
   </article>
 ```
 </details>
@@ -526,36 +526,36 @@ Set the `p` elements to the same line in order to have no space between them.
 
 ```html
   <article class="product">
-    <p class="taste"> pizza</p><p class="cost">10.0</p>
+    <p class="first"> second</p><p class="cost">10.0</p>
   </article>
 ```
 </details>
 
 ## Step 44 | Update the property of all paragraph class selectors
 
-Set the class attribut `taste` and  `cost` for the p elements accordingly.
+Set the class attribut `first` and  `cost` for the p elements accordingly.
 
 <details>
 <summary> Code Snippet </summary>
   
   ```html
   <article class="product">
-    <p class="taste"> pizza</p><p class="cost">10.0</p>
+    <p class="first"> second</p><p class="cost">10.0</p>
   </article>
   ```
 </details>
 
 
-## Step 45 | Update the width property of the class selectors, taste and cost
+## Step 45 | Update the width property of the class selectors, first and cost
 
-Set a width of **80%** for the `taste` and **20%** `cost` class selector.
+Set a width of **80%** for the `first` and **20%** `cost` class selector.
 
 
 <details>
 <summary> Code Snippet </summary>
 
 ```css
-.taste {
+.first {
   width:80%;
 }
 
@@ -583,7 +583,7 @@ Add a `section` element inside the `div` element.
 
 ## Step 47 | Create a h2 element
 
-Add an `h2` element inside the `section` element with the text `Pizza`.
+Add an `h2` element inside the `section` element with the text `second`.
 
 Repeat this step for a 3rd section element, but with the text `Desserts`.
 
@@ -593,7 +593,7 @@ Repeat this step for a 3rd section element, but with the text `Desserts`.
 ```html
 <div class="menu">
   <section>
-    <h2>Pizza</h2>
+    <h2>second</h2>
   </section>
 </div>
 ```
@@ -612,7 +612,7 @@ Repeat this step for the 3rd section element.
 ```html
 <div class="menu">
   <section>
-    <h2>Pizza</h2>
+    <h2>second</h2>
     <article>
       <!-- all other elements go here -->
     </article>
@@ -634,7 +634,7 @@ Repeat this step for the 3rd section element.
 ```html
 <div class="menu">
   <section>
-    <h2>Pizza</h2>
+    <h2>second</h2>
     <article>
       <p>4 Cheeses</p> <p>10.0</p>
     </article>
@@ -646,9 +646,48 @@ Repeat this step for the 3rd section element.
 
 ## Step 50 | Update the class attribut of the p elements
 
-Add the `class` attribute named `pizza`, `sweet` to the first `p` element and the `class` attribute named `cost` to the second `p` element.
+Add the `class` attribute named `second`, `third` to the first `p` element and the `class` attribute named `cost` to the second `p` element.
 
 
+
+## Step 51 | Update the class selector for the p elements
+
+Include the  class attribut `second` and  `third` to the `first` class selector.
+
+<details>
+<summary> Code Snippet </summary>
+
+```css
+.first, .second, .third {
+  width:80%;
+}
+
+
+```
+</details>
+
+## Step 52 | Create article elements and p elements
+
+Add more `article` elements with `p` elements inside the `section` element.
+
+## Step 53 | Update the property of the class selectors for the menu elements
+
+Add more padding to the left and the right of the `menu` elements.
+
+<details>
+<summary> Code Snippet </summary>
+  
+  ```css
+  .menu {
+  width:50%;
+  background-color:orangered;
+  margin-left:auto;
+  margin-right:auto;
+  padding-left:40px;
+  padding-right:40px;
+}
+  ```
+</details>
 
 
 
