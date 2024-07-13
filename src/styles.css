@@ -15,10 +15,12 @@ h1, h2, h3, p {
   background-color:orangered;
   margin-left:auto;
   margin-right:auto;
+  padding-left:40px;
+  padding-right:40px;
 }
 
 /*steps 33*/
-.taste {
+.first, .second, .third{
 text-align:left;
 
 /*steps 38, 45*/
