@@ -690,6 +690,20 @@ Add more padding to the left and the right of the `menu` elements.
 </details>
 
 
+## Step 54 | Update the property of the class selectors for the menu elements
+
+Set the `padding` property to **20px** for the `menu` elements to have more space on the top and bottom.
+
+<details>
+<summary> Code Snippet </summary>
+
+```css
+.menu {
+  padding-bottom:40px;
+  padding-top:40px;
+}
+```
+</details>
 
 
 
