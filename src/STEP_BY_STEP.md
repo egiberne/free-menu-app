@@ -705,6 +705,19 @@ Set the `padding` property to **20px** for the `menu` elements to have more spac
 ```
 </details>
 
+## Step 55 | Update the property of the class selectors for the menu elements
+
+Set the `padding` property with the shortcode as the value is the same for the top, bottom, left and right.
+
+<details>
+<summary> Code Snippet </summary>
+
+```css
+.menu {
+  padding:40 40 40 40;
+}
+```
+</details>
 
 
 <p align="right">🔺<a href="#">Top</a></p>

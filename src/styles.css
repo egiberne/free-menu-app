@@ -17,9 +17,8 @@ h1, h2, h3, p {
   margin-right:auto;
   padding-left:40px;
   padding-right:40px;
-  /*steps 54*/
-  padding-top:40px;
-  padding-bottom: 40px;
+  /*steps 53-55*/
+  padding: 20 20 20 20;
 }
 
 /*steps 33*/
