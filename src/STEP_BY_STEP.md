@@ -719,5 +719,21 @@ Set the `padding` property with the shortcode as the value is the same for the t
 ```
 </details>
 
+## Step 56 | Update the width property of the class selectors for the menu elements
+
+Set the `max-width` property to **700px** for the `menu` elements.
+
+<details>
+<summary> Code Snippet </summary>
+
+```css
+.menu {
+  max-width:700px;
+}
+```
+</details>
+
+
+
 
 <p align="right">🔺<a href="#">Top</a></p>

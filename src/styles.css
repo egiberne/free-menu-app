@@ -12,6 +12,8 @@ h1, h2, h3, p {
 /*steps 21, 23*/
 .menu {
   width:70%;
+  /*steps 56*/
+  max-width: 700px;
   background-color:orangered;
   margin-left:auto;
   margin-right:auto;
