@@ -747,6 +747,37 @@ body {
 ```
 </details>
 
+## Step 58 | Update the property of the  selector for the heading elements
+
+Set the `font-family` property to  `Gill` for the `h1`, `h2`, `h3` elements.
+
+## Step 59 | Update the property family-font with fallbacks
+
+Set the `font-family` property to  `Gill` with fallbacks for the `h1`, `h2`, `h3` elements.
+
+<details>
+<summary> Code Snippet </summary>
+
+```css
+h1, h2, h3 {
+  font-family:Gill Sans,Tahoma;
+}
+```
+</details>
+
+
+## Step 60 | Create a selector for the date of creation of the restaurant
+
+Add a `class` attribute named `founded` to the `p` element with the text `Est. 2021`.
+
+<details>
+<summary> Code Snippet </summary>
+
+```html
+<p class="date">Est. 2021</p>
+```
+</details>
+
 
 
 

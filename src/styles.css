@@ -7,6 +7,11 @@ body {
 
 }
 
+/*step 60*/
+.founded {
+  font-style:oblique;
+}
+
 /*steps 14*/
 h1, h2, h3, p {
   text-align: center;
