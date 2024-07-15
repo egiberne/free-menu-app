@@ -733,6 +733,21 @@ Set the `max-width` property to **700px** for the `menu` elements.
 ```
 </details>
 
+## Step 57 | Update the property of the  selector for the body elements
+
+Set the `font` property to  **Verdana** for the `body` elements.
+
+<details>
+<summary> Code Snippet </summary>
+
+```css
+body {
+  font-family:Verdana;
+}
+```
+</details>
+
+
 
 
 

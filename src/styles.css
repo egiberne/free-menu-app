@@ -1,12 +1,15 @@
 /*steps 18-19, 22*/
 body {
-    /*background-color:limegreen;*/
-    background-image:url("pies.png");
+  /*background-color:limegreen;*/
+  background-image:url("pies.png");
+  /*steps 57*/
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 /*steps 14*/
 h1, h2, h3, p {
-    text-align: center;
+  text-align: center;
 }
 
 /*steps 21, 23*/
