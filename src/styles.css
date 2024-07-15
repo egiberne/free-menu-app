@@ -2,14 +2,19 @@
 body {
   /*background-color:limegreen;*/
   background-image:url("pies.png");
-  /*steps 57*/
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /*steps 57, 59*/
+  font-family: Geneva;
 
 }
 
 /*steps 14*/
 h1, h2, h3, p {
   text-align: center;
+}
+
+/*step 58, 59*/
+h1, h2, h3 {
+  font-family: Gill Sans,Tahoma;
 }
 
 /*steps 21, 23*/
