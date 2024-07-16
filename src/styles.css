@@ -17,6 +17,20 @@ h1, h2, h3, p {
   text-align: center;
 }
 
+h1 {
+  /*step 62*/
+  font-size:60px;
+}
+h2 {
+  /*step 62*/
+  font-size:40px;
+}
+h3 {
+  /*step 62*/
+  font-size:20px;
+}
+
+
 /*step 58, 59*/
 h1, h2, h3 {
   font-family: Gill Sans,Tahoma;
