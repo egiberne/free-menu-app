@@ -778,9 +778,13 @@ Add a `class` attribute named `founded` to the `p` element with the text `Est. 2
 ```
 </details>
 
-## Step 61
+## Step 61 | Update the  class attribut for the pahagraph element under the title
 
-## Step 62
+## Step 62 | Update the size of the font for the heading elements
+
+## Step 63 | Create a footer element
+
+
 
 
 
