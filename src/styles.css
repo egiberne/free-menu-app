@@ -30,6 +30,15 @@ h3 {
   font-size:20px;
 }
 
+hr {
+  /*step 67-70*/
+  height: 1px;
+  /*step 68*/
+  background: orange;
+  /*step 69*/
+  border-color: orange;
+}
+
 
 /*step 58, 59*/
 h1, h2, h3 {

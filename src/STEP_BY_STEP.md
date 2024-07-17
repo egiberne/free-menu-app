@@ -784,9 +784,19 @@ Add a `class` attribute named `founded` to the `p` element with the text `Est. 2
 
 ## Step 63 | Create a footer element
 
-## Step 64 | Create hyperlink elements in the footer
+## Step 64 | Create  p elements in the footer with a hyperlink
 
+## Step 65 | Create a p element in the footer with an address
 
+## Step 66 | Create a hr element 
+
+## Step 67 | Update the height of the hr element
+
+## Step 68 | Update the backaground color of the hr element
+
+## Step 69 | Update the border color of the hr element
+
+## Step 70 | Update the height of the hr element
 
 
 
