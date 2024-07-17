@@ -784,6 +784,8 @@ Add a `class` attribute named `founded` to the `p` element with the text `Est. 2
 
 ## Step 63 | Create a footer element
 
+## Step 64 | Create hyperlink elements in the footer
+
 
 
 
