@@ -788,7 +788,7 @@ Add a `class` attribute named `founded` to the `p` element with the text `Est. 2
 
 ## Step 65 | Create a p element in the footer with an address
 
-## Step 66 | Create a hr element 
+## Step 66 | Create a hr element before the first section element
 
 ## Step 67 | Update the height of the hr element
 
@@ -798,6 +798,12 @@ Add a `class` attribute named `founded` to the `p` element with the text `Est. 2
 
 ## Step 70 | Update the height of the hr element
 
+<p align="right">🔺<a href="#">Top</a></p>
+
+
+## Step 71 | Create a hr element before the footer element
+
+## Step 72 | Update the espace around the body element
 
 
 
