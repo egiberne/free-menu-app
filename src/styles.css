@@ -6,7 +6,7 @@ body {
   font-family: Geneva;
 
   /*step 72*/
-  padding: 20 20 20 20;
+  padding: 50 50 50 50;
 
 }
 
@@ -79,5 +79,8 @@ width:20%;
 }
 
 .product p {
-  display:inline-block
+  display:inline-block;
+  margin-top:13px;
+  margin-bottom:13px;
+  font-size: 30px;
 }
