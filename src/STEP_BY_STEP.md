@@ -805,7 +805,7 @@ Add a `class` attribute named `founded` to the `p` element with the text `Est. 2
 
 ## Step 72 | Update the espace around the body element
 
-
+## Step 73 | Update the margin of the body element
 
 
 <p align="right">🔺<a href="#">Top</a></p>
