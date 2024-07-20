@@ -85,6 +85,24 @@ width:20%;
   font-size: 30px;
 }
 
+/*step 75*/
 .bottom-line {
   margin-top:25px;
+}
+
+/* FOOTER*/
+
+/*step 78*/
+footer {
+  font-size : 14px;
+}
+
+/*step 79*/
+a {
+  color : black ;
+}
+
+/*step 80*/
+a:visited {
+  color : grey; 
 }
