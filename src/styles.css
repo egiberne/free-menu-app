@@ -108,9 +108,18 @@ a:visited {
 }
 
 a:hover {
-  color: brown;
+  color: black;
 }
 
 a:active {
   color: white;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  margin-top:-20px;
 }
