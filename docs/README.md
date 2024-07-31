@@ -1,4 +1,4 @@
-![Logo](banner.png)
+![Logo](mockup.png)
 
 
 #  Free Menu App
